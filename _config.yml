@@ -2,7 +2,6 @@
 title: Virgil's Wheel Workshop
 email: virgilming@gmail.com
 description: | # this means to ignore newlines until "baseurl:"
-  Virgil Ming's tech blog.
   Code, engineering, design.
   All things worthy of scrutinization and exploration.
 baseurl: "" # the subpath of your site, e.g. /blog/
