@@ -108,7 +108,7 @@ html, body{
     padding: $spacing-unit/2 0;
     position: absolute;
     bottom: 0px;
-    height:54px;
+    height:36px;
     width:100%;
     background-color: $grey-color-light;
 }
@@ -129,6 +129,12 @@ html, body{
     color: $grey-color;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
+    min-width: 100%;
+    text-align: center;
+}
+
+.footer-col-wrapper p {
+    margin:0;
 }
 
 .footer-col {
