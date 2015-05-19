@@ -21,7 +21,7 @@ And “wheel” does mean that common jargon. We developers invent and reinvent 
 
 It will not be updated very frequently, as I try to maintain high quality standard. However I'll try to maintain at least one post a month.
 
-To welcome visitors worldwide, I write this blog in English; though in posts about Chinese typography, expect Chinese texts.
+To welcome worldwide visitors, I write this blog in English; though in posts about CJK typography, expect Chinese texts.
 
 Comments about posts are welcome via email (see below). I'll definitely reply to every useful feedback, and probably write a post about it.
 
@@ -35,6 +35,6 @@ And in case you're interested, I write [another blog]() (under construction now)
 
 You can find me at:
 
-> Email: [virgilming@gmail.com](mailto:virgilming@gmail.com) <br>
-> [GitHub](https://github.com/VirgilMing) <br>
+> Email: [virgilming@gmail.com](mailto:virgilming@gmail.com)
+> [GitHub](https://github.com/VirgilMing)
 > [StackOverflow](http://stackoverflow.com/users/4652262/virgil-ming) (and some other Stack Exchange communities)
