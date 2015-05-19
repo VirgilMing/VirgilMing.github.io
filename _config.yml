@@ -12,3 +12,5 @@ github_username:  VirgilMing
 
 # Build settings
 markdown: kramdown
+kramdown:
+  input: GFM
